@@ -1,0 +1,30 @@
+#i1 {
+    margin-left: 60;
+}
+#i2{
+    margin-left: 28;
+}
+#i3{
+    margin-left: 50;
+}
+#i4{
+    margin-left: 25;
+}
+#i5{
+    margin-left: 41;
+}
+#i6{
+    margin-left: 20;
+}
+#i7{
+    padding-right: 71;
+    margin-left: 40
+}
+button{
+    padding: 10;
+    margin-left: 100;
+    background-color: chartreuse;
+    color:aliceblue;
+    text-align: center;
+    border-radius: 20px;
+}
