@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+    background-color: aqua; 
+    
+}
+
+#main {
+    color: darkred;
+    font-size: 4px;
+    background-color: darkgray;
+}
+
+.iet {
+    color :forestgreen;
+}
