@@ -47,9 +47,37 @@
     <h1 class="iet">ШУЕ ППШ</h1>
 
     <h1>ШУЕ ППШ</h1>
+    <script>console.log('hello world');</script>
+    <script>console.log(2 ** 4)</script>
+    <script>
+        const squareSum = (a,b) => {
+            return (a ** 2) + (2 * a * b) + (b ** 2);;
+        };
+        console.log(squareSum(4,4));
+    </script>
+   
+    
+    <script>
+    
+    const finalGradient = (a,b) =>{
+        let c = 0;
+        c = ((a>100) || (b>=10)) ? 100 : 0;
+        if(c!==0){
+             return c; 
+        }
+        c = ((a>75)&&(b>=5)) ? 90 : 0;
+        if(c!==0){
+             return c; 
+        }
+        c = ((a>50) && (b>=2)) ? 75 : 0;
+        return c;  
+    };
+    
+    console.log(finalGradient(85,5));
     
     
     
+    </script>
     
 
 </body>
